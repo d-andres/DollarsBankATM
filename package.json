@@ -1,0 +1,21 @@
+{
+  "name": "dollarsbankjavascriptappv1",
+  "version": "1.0.0",
+  "description": "A simple banking ATM application",
+  "main": "dollarsbank_app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "simple",
+    "bank",
+    "example"
+  ],
+  "author": "d-andres",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "prompt-sync": "^4.2.0"
+  }
+}
